@@ -1,0 +1,87 @@
+[
+    {
+        "entity": "Aspirin",
+        "behavior": "inhibits cyclooxygenase (COX)",
+        "context": "exerting anti-inflammatory, analgesic, and antipyretic actions by reducing prostaglandin synthesis"
+    },
+    {
+        "entity": "Aspirin",
+        "behavior": "reduces physiologically important prostaglandins",
+        "context": "causing side effects such as stomach mucosal damage, impaired kidney function, and reduced platelet aggregation"
+    },
+    {
+        "entity": "John Vane",
+        "behavior": "discovered aspirin's inhibition of COX",
+        "context": "1971 research linking aspirin to prostaglandin synthesis blockade"
+    },
+    {
+        "entity": "COX-1",
+        "behavior": "supports beneficial homeostatic functions",
+        "context": "constitutively produces prostaglandins protecting stomach mucosa, maintaining kidney function, and regulating platelet aggregation"
+    },
+    {
+        "entity": "COX-2",
+        "behavior": "upregulated during inflammation",
+        "context": "induces prostaglandin synthesis causing inflammation, pain, and fever in diseases like rheumatoid arthritis"
+    },
+    {
+        "entity": "Felix Hoffman",
+        "behavior": "acetylated salicylic acid",
+        "context": "synthesized aspirin in 1897 at Bayer to reduce gastrointestinal side effects of salicylic acid"
+    },
+    {
+        "entity": "Heinrich Dreser",
+        "behavior": "named 'Aspirin'",
+        "context": "derived from Spiraea (plant genus) or St. Aspirinius, avoiding confusion with salicylic acid"
+    },
+    {
+        "entity": "Aspirin",
+        "behavior": "acetylates Serine 530 in COX-1",
+        "context": "irreversibly inhibits COX-1 by blocking arachidonic acid binding"
+    },
+    {
+        "entity": "Aspirin",
+        "behavior": "acetylates Serine 516 in COX-2",
+        "context": "allows partial arachidonic acid conversion to 15-R-HETE due to larger active site"
+    },
+    {
+        "entity": "COX-2 inhibitors (celecoxib, rofecoxib)",
+        "behavior": "selectively inhibit COX-2",
+        "context": "developed to reduce inflammation without damaging stomach mucosa"
+    },
+    {
+        "entity": "Nitroaspirin",
+        "behavior": "releases nitric oxide",
+        "context": "protects stomach mucosa from gastric acid while retaining anti-thrombotic effects"
+    },
+    {
+        "entity": "Chandrasekharan et al.",
+        "behavior": "discovered COX-3",
+        "context": "a COX-1 variant inhibited by paracetamol and low-dose aspirin, linked to pain and fever control"
+    },
+    {
+        "entity": "Willow bark/salicylates",
+        "behavior": "used for rheumatism",
+        "context": "historical medicinal use dating back thousands of years"
+    },
+    {
+        "entity": "Smith and Willis",
+        "behavior": "demonstrated aspirin inhibits PG release in platelets",
+        "context": "1971 study showing oral aspirin blocks prostaglandin synthesis in humans"
+    },
+    {
+        "entity": "Piper and Vane",
+        "behavior": "linked aspirin to RCS (thromboxane A2) and PG inhibition",
+        "context": "guinea pig lung experiments revealing aspirin's blockade of anaphylactic mediator release"
+    },
+    {
+        "entity": "Aspirin",
+        "behavior": "blocks peripheral nociception",
+        "context": "effective in inflammatory pain models but not acute nociceptive stimuli"
+    },
+    {
+        "entity": "Early enzyme inhibition theories",
+        "behavior": "abandoned due to concentration discrepancies",
+        "context": "pre-1971 hypotheses lacked correlation between therapeutic effects and enzyme inhibition at plasma drug levels"
+    }
+]
