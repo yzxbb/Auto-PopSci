@@ -1,0 +1,80 @@
+[
+    {
+        "entity": "NMR-on-a-chip needle",
+        "behavior": "enables in vivo measurements of blood oxygenation and flow in nanoliter volumes at 200 Hz sampling rate",
+        "context": "brain physiology studies",
+        "priority": 1
+    },
+    {
+        "entity": "integrated circuit (IC)-based NMR systems",
+        "behavior": "simplify hardware complexity and boost sensitivity",
+        "context": "MR experiments",
+        "priority": 2
+    },
+    {
+        "entity": "CMOS ASIC",
+        "behavior": "integrates 300 \u00b5m NMR coil and transceiver electronics",
+        "context": "neuroscience applications",
+        "priority": 1
+    },
+    {
+        "entity": "on-chip microcoil",
+        "behavior": "reduces parasitic MR signal pickup via differential design",
+        "context": "in vivo experiments",
+        "priority": 2
+    },
+    {
+        "entity": "NMR needle",
+        "behavior": "achieves 9.8 nl sensitive volume",
+        "context": "high-resolution MR imaging",
+        "priority": 1
+    },
+    {
+        "entity": "NMR needle",
+        "behavior": "detects 15-30 ml/100g/min CBF changes and 15-20% oxygenation changes",
+        "context": "rat forepaw stimulation experiments",
+        "priority": 1
+    },
+    {
+        "entity": "NMR needle",
+        "behavior": "provides 40x higher SNR per spin compared to 8 mm surface coil",
+        "context": "sensitivity comparison",
+        "priority": 2
+    },
+    {
+        "entity": "NMR needle",
+        "behavior": "achieves 200 Hz temporal resolution",
+        "context": "hemodynamic change tracking",
+        "priority": 1
+    },
+    {
+        "entity": "BOLD response",
+        "behavior": "shows no initial dip in deep cortical layers",
+        "context": "hemodynamic response analysis",
+        "priority": 2
+    },
+    {
+        "entity": "CMOS receiver",
+        "behavior": "achieves 0.7 dB noise figure",
+        "context": "low-noise signal acquisition",
+        "priority": 2
+    },
+    {
+        "entity": "NMR needle",
+        "behavior": "enables 150x volume-normalized tSNR improvement over EPI fMRI",
+        "context": "temporal signal stability",
+        "priority": 2
+    },
+    {
+        "entity": "postprocessing workflow",
+        "behavior": "implements second-order polynomial drift correction and physiological noise filtering",
+        "context": "signal analysis",
+        "priority": 3
+    },
+    {
+        "entity": "CMOS design",
+        "behavior": "allows formation of multi-coil arrays along needle shaft",
+        "context": "future multi-layer cortical measurements",
+        "priority": 3
+    }
+]

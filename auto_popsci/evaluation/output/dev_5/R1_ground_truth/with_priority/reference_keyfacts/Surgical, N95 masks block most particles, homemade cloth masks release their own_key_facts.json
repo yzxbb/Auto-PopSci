@@ -1,0 +1,74 @@
+[
+    {
+        "entity": "Surgical masks",
+        "behavior": "Reduce outward particle emission rates by 90% during speaking and 74% during coughing",
+        "context": "Compared to wearing no mask",
+        "priority": 1
+    },
+    {
+        "entity": "Unvented KN95 respirators",
+        "behavior": "Reduce outward particle emission rates by 74% during coughing",
+        "context": "Compared to wearing no mask",
+        "priority": 1
+    },
+    {
+        "entity": "Homemade cotton masks",
+        "behavior": "Increase particle emission rates due to shedding of friable cellulosic fibers",
+        "context": "During expiratory activities such as breathing, speaking, and coughing",
+        "priority": 1
+    },
+    {
+        "entity": "Coughing superemitter",
+        "behavior": "Emitted up to two orders of magnitude more expiratory particles than average",
+        "context": "Observed during coughing regardless of mask type",
+        "priority": 1
+    },
+    {
+        "entity": "Mask wearers",
+        "behavior": "Speak more loudly but do not cough more loudly",
+        "context": "Measured via audio analysis of speech and coughing intensity",
+        "priority": 2
+    },
+    {
+        "entity": "Homemade cotton masks",
+        "behavior": "Shed non-expiratory micron-scale particulates during mechanical action",
+        "context": "Demonstrated via manual rubbing experiments",
+        "priority": 2
+    },
+    {
+        "entity": "Washed homemade masks",
+        "behavior": "No significant reduction in particle emission compared to unwashed masks",
+        "context": "Tested after hand-washing with soap and water",
+        "priority": 2
+    },
+    {
+        "entity": "Medical-grade masks",
+        "behavior": "Reduce particle emissions across all size ranges (0.3\u201320 \u00b5m)",
+        "context": "During breathing, talking, and coughing",
+        "priority": 1
+    },
+    {
+        "entity": "Vented N95 respirators",
+        "behavior": "Show comparable particle emission reduction to surgical masks",
+        "context": "Based on limited testing with two participants",
+        "priority": 2
+    },
+    {
+        "entity": "Aerosolized fomites",
+        "behavior": "Potentially generated from virus-contaminated mask fabrics",
+        "context": "Hypothesized risk from shed fiber particulates",
+        "priority": 2
+    },
+    {
+        "entity": "Study participants",
+        "behavior": "Included 10 healthy non-smokers aged 18\u201345",
+        "context": "Experimental setup for measuring particle emissions",
+        "priority": 3
+    },
+    {
+        "entity": "Aerodynamic Particle Sizer (APS)",
+        "behavior": "Measured particles in 0.3\u201320 \u00b5m range",
+        "context": "Used to quantify outward emissions during expiratory activities",
+        "priority": 3
+    }
+]

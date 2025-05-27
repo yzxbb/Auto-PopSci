@@ -1,0 +1,74 @@
+[
+    {
+        "entity": "Xe islands on Cu(111)",
+        "behavior": "exhibit superlubric sliding",
+        "context": "large size limit of naturally incommensurate islands",
+        "priority": 1
+    },
+    {
+        "entity": "Xe monolayer on Cu(111)",
+        "behavior": "undergoes abrupt adhesion-driven 2D density compression",
+        "context": "as coverage approaches full monolayer",
+        "priority": 1
+    },
+    {
+        "entity": "QCM measurements",
+        "behavior": "show large slip times increasing with submonolayer coverage",
+        "context": "signaling superlubricity in Xe/Cu(111) system",
+        "priority": 1
+    },
+    {
+        "entity": "Xe/Cu(111) monolayer",
+        "behavior": "transitions to commensurate immobile state",
+        "context": "after spontaneous 4% density compression at \u03b8 \u2248 1",
+        "priority": 1
+    },
+    {
+        "entity": "MD simulations",
+        "behavior": "confirm viscous sliding with slip times ~5 ns",
+        "context": "for incommensurate Xe islands on defect-free Cu(111)",
+        "priority": 2
+    },
+    {
+        "entity": "Island edge effects",
+        "behavior": "cause sublinear friction contribution (\u03b3 \u2248 \u00bc)",
+        "context": "finite-size correction to superlubric bulk sliding",
+        "priority": 2
+    },
+    {
+        "entity": "Xe\u2013Cu adhesion energy",
+        "behavior": "drives monolayer compression (~4%)",
+        "context": "overcoming Xe\u2013Xe repulsion at \u03b8 \u2248 1",
+        "priority": 2
+    },
+    {
+        "entity": "Cu(111) surface corrugation",
+        "behavior": "provides weak periodic potential (~1-2 meV)",
+        "context": "enabling superlubricity for incommensurate Xe islands",
+        "priority": 2
+    },
+    {
+        "entity": "Xe/Ag(111) system",
+        "behavior": "shows 5% density compression without commensuration",
+        "context": "contrasted with Xe/Cu(111) behavior",
+        "priority": 3
+    },
+    {
+        "entity": "QCM electrode preparation",
+        "behavior": "involves Cu/Cr bilayer deposition",
+        "context": "to ensure (111) surface orientation",
+        "priority": 3
+    },
+    {
+        "entity": "Hysteresis",
+        "behavior": "affects density jump process",
+        "context": "during monolayer compression at \u03b8 \u2248 1",
+        "priority": 3
+    },
+    {
+        "entity": "Lam\u00e9 coefficients",
+        "behavior": "govern 2D elastic response",
+        "context": "in theoretical model of monolayer compression",
+        "priority": 3
+    }
+]

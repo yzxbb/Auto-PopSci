@@ -1,0 +1,74 @@
+[
+    {
+        "entity": "Researchers at Regeneron Pharmaceuticals",
+        "behavior": "identified new genomic variants associated with clonal hematopoiesis of indeterminate potential (CHIP)",
+        "context": "used exome-wide and genome-wide association analyses to study somatic mutations in blood",
+        "priority": 1
+    },
+    {
+        "entity": "Nature journal",
+        "behavior": "published the research paper and a Research Highlights piece discussing the work",
+        "context": "same journal issue",
+        "priority": 2
+    },
+    {
+        "entity": "Hematopoiesis",
+        "behavior": "results in the formation of cellular blood components",
+        "context": "biological process producing approximately 300 billion new blood cells daily",
+        "priority": 3
+    },
+    {
+        "entity": "Clonal hematopoiesis",
+        "behavior": "involved in the development of cell lineages",
+        "context": "part of the hematopoiesis process",
+        "priority": 3
+    },
+    {
+        "entity": "Prior research",
+        "behavior": "suggested variants associated with CHIP in certain individuals",
+        "context": "studies on clonal hematopoiesis",
+        "priority": 2
+    },
+    {
+        "entity": "UK Biobank and Geisinger MyCode Community Health Initiative",
+        "behavior": "provided datasets for the study",
+        "context": "used to identify CHIP-associated variants",
+        "priority": 2
+    },
+    {
+        "entity": "23 genes",
+        "behavior": "previously associated with CHIP",
+        "context": "focal point of the researchers' search",
+        "priority": 2
+    },
+    {
+        "entity": "628,388 individuals",
+        "behavior": "analyzed, identifying 40,208 carriers of CHIP-associated variants",
+        "context": "data from UK Biobank and Geisinger MyCode",
+        "priority": 2
+    },
+    {
+        "entity": "Researchers at Regeneron Pharmaceuticals",
+        "behavior": "identified 24 loci (21 novel) through exome-wide and genome-wide studies",
+        "context": "analysis of CHIP carriers",
+        "priority": 1
+    },
+    {
+        "entity": "Variants",
+        "behavior": "associated with clonal hematopoiesis and telomere length",
+        "context": "findings from genome-wide analyses",
+        "priority": 2
+    },
+    {
+        "entity": "Researchers at Regeneron Pharmaceuticals",
+        "behavior": "found associations between CHIP variants and diseases (e.g., COVID-19, heart issues, obesity, infections)",
+        "context": "analysis of UK Biobank health traits",
+        "priority": 1
+    },
+    {
+        "entity": "CHIP variants",
+        "behavior": "linked to development of cancerous tumors and myeloid leukemias",
+        "context": "health trait analysis in the study",
+        "priority": 2
+    }
+]

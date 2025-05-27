@@ -1,0 +1,52 @@
+[
+    {
+        "entity": "Xe islands (submonolayer)",
+        "behavior": "exhibit superlubric sliding",
+        "context": "incommensurate structure with Cu(111) substrate, large island size, low temperatures (~47-49 K)"
+    },
+    {
+        "entity": "Xe monolayer",
+        "behavior": "undergoes abrupt 2D density compression (~4%)",
+        "context": "near full coverage (\u03b8\u22481), driven by strong adhesion to Cu(111) substrate"
+    },
+    {
+        "entity": "Xe/Cu(111) interface",
+        "behavior": "transitions from superlubric sliding to immobile state",
+        "context": "at full monolayer coverage due to commensurate structural alignment"
+    },
+    {
+        "entity": "Quartz crystal microbalance (QCM)",
+        "behavior": "measures large slip times (up to 4 ns) decreasing abruptly at full coverage",
+        "context": "experimental observation of superlubricity in submonolayer Xe islands"
+    },
+    {
+        "entity": "Molecular dynamics (MD) simulations",
+        "behavior": "confirm viscous sliding with slip times ~5 ns for large Xe islands",
+        "context": "incommensurate structure, edge effects inversely dependent on island size"
+    },
+    {
+        "entity": "Xe islands' edge effects",
+        "behavior": "contribute to friction with sublinear dependence on island size (\u03b3\u2248\u00bc)",
+        "context": "finite size effects diminishing with increasing island area"
+    },
+    {
+        "entity": "Adhesion energy (Xe-Cu(111))",
+        "behavior": "drives spontaneous 2D density compression",
+        "context": "prevents second layer formation by favoring monolayer completion"
+    },
+    {
+        "entity": "Commensurate Xe monolayer",
+        "behavior": "exhibits zero slip time (pinned state)",
+        "context": "structural alignment with Cu(111) substrate lattice"
+    },
+    {
+        "entity": "Hysteretic transition",
+        "behavior": "causes variability in slip time drop coverage",
+        "context": "first-order phase transition during monolayer compression"
+    },
+    {
+        "entity": "Cu(111) surface corrugation",
+        "behavior": "enables superlubricity in incommensurate Xe islands",
+        "context": "low energy corrugation (~1-2 meV) compared to Xe-Xe interactions"
+    }
+]

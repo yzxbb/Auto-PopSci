@@ -1,0 +1,74 @@
+[
+    {
+        "entity": "Hepatocytes",
+        "behavior": "Activate STAT3 signaling and produce serum amyloid A (SAA)",
+        "context": "During pancreatic tumorigenesis in mice and in patients with metastatic cancers",
+        "priority": 1
+    },
+    {
+        "entity": "IL-6",
+        "behavior": "Released by non-malignant cells in primary tumor microenvironment",
+        "context": "Triggers STAT3 activation in hepatocytes during early tumor development",
+        "priority": 1
+    },
+    {
+        "entity": "SAA (Serum Amyloid A)",
+        "behavior": "Promotes myeloid cell accumulation and liver fibrosis",
+        "context": "Critical mediator of pro-metastatic niche formation in liver metastasis models",
+        "priority": 1
+    },
+    {
+        "entity": "STAT3 signaling",
+        "behavior": "Orchestrates pro-metastatic niche through myeloid recruitment and matrix deposition",
+        "context": "Required in hepatocytes for liver metastasis susceptibility",
+        "priority": 1
+    },
+    {
+        "entity": "Myeloid cells",
+        "behavior": "Accumulate in liver through SAA-mediated chemoattraction",
+        "context": "Key component of pro-metastatic niche in multiple cancer models",
+        "priority": 2
+    },
+    {
+        "entity": "Fibronectin/COL1",
+        "behavior": "Increased deposition in liver extracellular matrix",
+        "context": "Associated with metastatic niche formation independent of myeloid cells",
+        "priority": 2
+    },
+    {
+        "entity": "IL-6 receptor blockade",
+        "behavior": "Inhibits STAT3 activation and metastatic niche formation",
+        "context": "Therapeutic intervention in mouse models of liver metastasis",
+        "priority": 1
+    },
+    {
+        "entity": "KPC mouse model",
+        "behavior": "Shows spontaneous development of pro-metastatic liver niche",
+        "context": "Pancreatic ductal adenocarcinoma model with liver metastasis features",
+        "priority": 2
+    },
+    {
+        "entity": "Circulating SAA levels",
+        "behavior": "Correlate with metastatic burden and poor prognosis",
+        "context": "Observed in patients with pancreatic, colorectal, and lung cancers",
+        "priority": 2
+    },
+    {
+        "entity": "Parabiotic mice",
+        "behavior": "Demonstrate systemic induction of pro-metastatic niche",
+        "context": "Shows niche formation independent of tumor-liver anatomical proximity",
+        "priority": 2
+    },
+    {
+        "entity": "TIMP1/MIF",
+        "behavior": "Not regulated by IL-6-STAT3-SAA axis",
+        "context": "Tested alternative mechanisms excluded from main pathway",
+        "priority": 3
+    },
+    {
+        "entity": "Liver sinusoids",
+        "behavior": "Maintain normal morphology despite niche changes",
+        "context": "Structural integrity preserved during metastatic niche formation",
+        "priority": 3
+    }
+]

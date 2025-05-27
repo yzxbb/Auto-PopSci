@@ -1,0 +1,80 @@
+[
+    {
+        "entity": "FineSurE",
+        "behavior": "evaluates summaries using LLMs through fact checking and keyfact alignment",
+        "context": "automated summarization evaluation",
+        "priority": 1
+    },
+    {
+        "entity": "ROUGE",
+        "behavior": "exhibits weak correlation with human judgment and provides summary-level assessment",
+        "context": "traditional reference-based metrics",
+        "priority": 2
+    },
+    {
+        "entity": "LLM-based evaluators (e.g., G-Eval)",
+        "behavior": "provide Likert-scale scores at summary level without fine-grained analysis",
+        "context": "existing automated evaluation methods",
+        "priority": 2
+    },
+    {
+        "entity": "Faithfulness",
+        "behavior": "assesses factual consistency by minimizing intrinsic/extrinsic errors",
+        "context": "evaluation dimension in FineSurE",
+        "priority": 1
+    },
+    {
+        "entity": "Completeness",
+        "behavior": "measures inclusion of keyfacts from source text",
+        "context": "evaluation dimension in FineSurE",
+        "priority": 1
+    },
+    {
+        "entity": "Conciseness",
+        "behavior": "evaluates avoidance of unnecessary details outside keyfacts",
+        "context": "evaluation dimension in FineSurE",
+        "priority": 1
+    },
+    {
+        "entity": "Proprietary LLMs (e.g., GPT-4)",
+        "behavior": "achieve higher correlation with human judgments than open-source models",
+        "context": "LLM backbone performance in FineSurE",
+        "priority": 2
+    },
+    {
+        "entity": "Keyfact alignment",
+        "behavior": "matches summary sentences to extracted keyfacts for completeness/conciseness scoring",
+        "context": "FineSurE methodology",
+        "priority": 1
+    },
+    {
+        "entity": "FRANK dataset",
+        "behavior": "provides sentence-level factuality error annotations",
+        "context": "benchmark for faithfulness evaluation",
+        "priority": 3
+    },
+    {
+        "entity": "REALSumm dataset",
+        "behavior": "includes human-annotated keyfacts for alignment evaluation",
+        "context": "benchmark for completeness/conciseness evaluation",
+        "priority": 3
+    },
+    {
+        "entity": "FineSurE framework",
+        "behavior": "outperforms SOTA methods in correlation with human judgments across dimensions",
+        "context": "evaluation results",
+        "priority": 2
+    },
+    {
+        "entity": "Instruction-tuned LLMs",
+        "behavior": "show improved performance in error localization and prompt adherence",
+        "context": "LLM backbone analysis",
+        "priority": 2
+    },
+    {
+        "entity": "FineSurE limitations",
+        "behavior": "primarily tested on news domain with potential domain adaptation challenges",
+        "context": "study constraints",
+        "priority": 3
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "entity": "Clonal Hematopoiesis of Indeterminate Potential (CHIP)",
+        "behavior": "Associated with aging, adverse health outcomes, increased risk of hematologic neoplasms, cytopenias, cardiovascular disease, infection, and all-cause mortality",
+        "context": "Studied via exome sequencing in 628,388 individuals from UK Biobank and Geisinger MyCode cohorts",
+        "priority": 1
+    },
+    {
+        "entity": "LY75 gene variants",
+        "behavior": "Missense variants (rs78446341-A and rs147820690-T) reduce incidence of CHIP, particularly DNMT3A CHIP",
+        "context": "Identified through GWAS and statistical fine-mapping in genetic association analyses",
+        "priority": 1
+    },
+    {
+        "entity": "DNMT3A CHIP",
+        "behavior": "Associated with subsequent development of myeloid leukemias and increased risk of solid cancers (lung, non-melanoma skin)",
+        "context": "Longitudinal survival analyses and Mendelian randomization in UK Biobank cohort",
+        "priority": 1
+    },
+    {
+        "entity": "24 germline loci",
+        "behavior": "21 novel loci identified influencing CHIP predisposition, including PARP1 and TCL1A",
+        "context": "Genome-wide association study (GWAS) of 27,331 CHIP carriers in UK Biobank",
+        "priority": 1
+    },
+    {
+        "entity": "TCL1A locus",
+        "behavior": "Variants increase DNMT3A CHIP risk but reduce TET2/ASXL1 CHIP risk",
+        "context": "Subtype-specific genetic associations showing opposing effects across CHIP subtypes",
+        "priority": 2
+    },
+    {
+        "entity": "CHEK2 gene",
+        "behavior": "Rare frameshift variant (OR=2.22) increases CHIP risk independently of common variants",
+        "context": "Exome-wide association study (ExWAS) replicated in Geisinger cohort",
+        "priority": 2
+    },
+    {
+        "entity": "IL-6 inhibition",
+        "behavior": "No significant CVD risk reduction in CHIP carriers in full UKB cohort (n=430,924)",
+        "context": "Contradicts prior findings from initial 50k UKB subset; Mendelian randomization analysis",
+        "priority": 2
+    },
+    {
+        "entity": "Smoking",
+        "behavior": "Heavy smoking associated with increased CHIP prevalence (OR=1.17-1.24)",
+        "context": "Demographic analysis showing dose-response relationship in multivariate models",
+        "priority": 2
+    },
+    {
+        "entity": "Age",
+        "behavior": "CHIP prevalence doubles every 9-12 years (OR=1.06-1.08 per year)",
+        "context": "Logistic regression models adjusted for sex and ancestry in both cohorts",
+        "priority": 2
+    },
+    {
+        "entity": "Mendelian randomization",
+        "behavior": "Supports causal associations between CHIP and lung cancer (OR=1.55), non-melanoma skin cancer, prostate/breast cancers",
+        "context": "Two-sample MR using 29 instrumental variants from GWAS",
+        "priority": 2
+    },
+    {
+        "entity": "ASXL1 CHIP",
+        "behavior": "Associated with widest range of traits including smoking correlates and respiratory measures",
+        "context": "Phenome-wide association study (PheWAS) of 5,041 UK Biobank traits",
+        "priority": 2
+    },
+    {
+        "entity": "IDH2/SRSF2 mutations",
+        "behavior": "Co-occur more frequently than expected in CHIP carriers",
+        "context": "Analysis of somatic mutation co-occurrence patterns in UKB/GHS",
+        "priority": 3
+    },
+    {
+        "entity": "JAK2 mutations",
+        "behavior": "Consistently show highest variant allele fraction (VAF) in multi-mutation CHIP carriers",
+        "context": "Analysis of VAF distribution across 14,766 CHIP variants",
+        "priority": 3
+    },
+    {
+        "entity": "SUZ12 CHIP",
+        "behavior": "Unique association profile with endocrine/ophthalmologic traits",
+        "context": "PheWAS showing subtype-specific phenotypic patterns",
+        "priority": 3
+    },
+    {
+        "entity": "CTC1 gene",
+        "behavior": "Rare loss-of-function variants increase CHIP risk (OR=1.55)",
+        "context": "Exome-wide burden testing identifying telomere biology links",
+        "priority": 2
+    }
+]

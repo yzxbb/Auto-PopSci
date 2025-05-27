@@ -1,0 +1,77 @@
+[
+    {
+        "entity": "LY75 missense variants",
+        "behavior": "associated with reduced incidence of CHIP",
+        "context": "germline genetic variation influences predisposition to CHIP"
+    },
+    {
+        "entity": "PARP1 missense variant (rs1136410-G)",
+        "behavior": "associated with reduced risk of DNMT3A CHIP",
+        "context": "DNA damage repair pathways and improved prognosis in myelodysplastic syndromes"
+    },
+    {
+        "entity": "CHEK2 frameshift variant",
+        "behavior": "significantly associated with increased CHIP risk",
+        "context": "rare germline variant analysis replicated in GHS cohort"
+    },
+    {
+        "entity": "TCL1A locus variants",
+        "behavior": "increase DNMT3A CHIP risk but reduce other CHIP subtype risks",
+        "context": "interacts with DNMT3A inactivation and shows opposing effects across clonal hematopoiesis subtypes"
+    },
+    {
+        "entity": "DNMT3A mutations",
+        "behavior": "associated with subsequent myeloid leukemia development",
+        "context": "longitudinal analysis using Mendelian randomization"
+    },
+    {
+        "entity": "CHIP carriers",
+        "behavior": "linked to severe COVID-19 outcomes (hospitalization, mortality)",
+        "context": "UK Biobank analysis adjusted for comorbidities and VAF \u2265 10%"
+    },
+    {
+        "entity": "IL6R rs2228145-C variant",
+        "behavior": "no protective effect on CVD risk in full CHIP cohort",
+        "context": "contrary to earlier findings in 50k UKB subset; replicated in GHS"
+    },
+    {
+        "entity": "CTC1 gene burden",
+        "behavior": "associated with increased CHIP risk",
+        "context": "rare loss-of-function variants in telomere maintenance pathways"
+    },
+    {
+        "entity": "High-VAF CHIP (\u22650.1)",
+        "behavior": "elevates lung cancer risk in smokers and non-smokers",
+        "context": "Cox proportional hazard models in UKB and GHS cohorts"
+    },
+    {
+        "entity": "ASXL1 CHIP",
+        "behavior": "shows strongest association with smoking-related traits",
+        "context": "cross-sectional PheWAS across 5,041 UKB traits"
+    },
+    {
+        "entity": "Germline TET2 CHIP predictors",
+        "behavior": "positively correlate with CVD risk",
+        "context": "Mendelian randomization analysis"
+    },
+    {
+        "entity": "JAK2 mutations",
+        "behavior": "associated with gout and cardiovascular disease",
+        "context": "haematologic trait analysis in UKB cohort"
+    },
+    {
+        "entity": "Clonal hematopoiesis phenotypes (CHIP, mLOY, mCAaut)",
+        "behavior": "share genetic risk loci (ATM, LY75, CD164)",
+        "context": "genome-wide correlation and LDSC analysis"
+    },
+    {
+        "entity": "SUZ12 CHIP",
+        "behavior": "linked to endocrine/ophthalmologic traits",
+        "context": "distinct phenome-wide association profile among CHIP subtypes"
+    },
+    {
+        "entity": "High-VAF CHIP carriers",
+        "behavior": "23-fold increased risk of myeloproliferative neoplasms",
+        "context": "longitudinal analysis excluding prior cancer diagnoses"
+    }
+]

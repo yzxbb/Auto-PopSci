@@ -1,0 +1,62 @@
+[
+    {
+        "entity": "Surgical masks",
+        "behavior": "Reduce outward particle emission rates by 90% during speaking and 74% during coughing",
+        "context": "Compared to wearing no mask"
+    },
+    {
+        "entity": "Unvented KN95 respirators",
+        "behavior": "Reduce outward particle emission rates by 90% during speaking and 74% during coughing",
+        "context": "Compared to wearing no mask"
+    },
+    {
+        "entity": "Homemade single-layer cotton masks (U-SL-T)",
+        "behavior": "Increase particle emission rate by 384% during breathing",
+        "context": "Compared to wearing no mask"
+    },
+    {
+        "entity": "Homemade double-layer cotton masks (U-DL-T)",
+        "behavior": "Yield no statistically significant change in particle emission rate during breathing",
+        "context": "Compared to wearing no mask"
+    },
+    {
+        "entity": "Coughing superemitter (participant M6)",
+        "behavior": "Emits up to two orders of magnitude more expiratory particles via coughing than average",
+        "context": "Persists regardless of mask type"
+    },
+    {
+        "entity": "Homemade cotton masks",
+        "behavior": "Shed non-expiratory micron-scale particulates from friable cellulosic fibers",
+        "context": "Confounds efficacy assessment for blocking expiratory particles"
+    },
+    {
+        "entity": "Vented N95 respirators",
+        "behavior": "Comparable particle emission reduction to surgical masks and KN95 respirators",
+        "context": "Limited testing due to sample size constraints"
+    },
+    {
+        "entity": "Surgical masks",
+        "behavior": "Shift emitted particle size distributions toward smaller diameters (0.3\u20130.5 \u00b5m)",
+        "context": "During breathing, speaking, and coughing"
+    },
+    {
+        "entity": "Hand-rubbed homemade cotton masks",
+        "behavior": "Aerosolize significant quantities of micron-scale particles (7.2 particles/s)",
+        "context": "Mechanical friction experiments"
+    },
+    {
+        "entity": "Washed double-layer cotton masks",
+        "behavior": "Show no significant reduction in particle emission rates compared to unwashed masks",
+        "context": "Post-handwashing experiments"
+    },
+    {
+        "entity": "Medical-grade masks (surgical, KN95, N95)",
+        "behavior": "Effectively reduce particle emissions across all size ranges (0.3\u201320 \u00b5m)",
+        "context": "During breathing, speaking, and coughing"
+    },
+    {
+        "entity": "Participants wearing masks",
+        "behavior": "Speak more loudly but do not cough more loudly",
+        "context": "Audio analysis of speech and coughing intensity"
+    }
+]

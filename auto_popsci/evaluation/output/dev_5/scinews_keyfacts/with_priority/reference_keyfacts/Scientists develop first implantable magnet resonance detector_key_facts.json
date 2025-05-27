@@ -1,0 +1,44 @@
+[
+    {
+        "entity": "ultra-fine needle with integrated chip",
+        "behavior": "detects and transmits nuclear magnetic resonance (NMR) data",
+        "context": "probing nanoliter volumes of brain oxygen metabolism with high spatial and temporal resolution",
+        "priority": 1
+    },
+    {
+        "entity": "Klaus Scheffler",
+        "behavior": "explains reduced electromagnetic interference and precise data collection",
+        "context": "integrated NMR detector design enabling neuroscientists to gather precise brain data",
+        "priority": 2
+    },
+    {
+        "entity": "Jens Anders",
+        "behavior": "proposes scalable solutions and additional sensing modalities",
+        "context": "expanding data collection and integrating electrophysiological/optogenetic measurements",
+        "priority": 2
+    },
+    {
+        "entity": "capillary monolithic NMR needle",
+        "behavior": "combines brain imaging versatility with localized neuronal activity analysis",
+        "context": "bridging electrophysical limits of contemporary brain scan methods",
+        "priority": 1
+    },
+    {
+        "entity": "research teams (Scheffler and Anders)",
+        "behavior": "aim to develop techniques for probing structural/biochemical composition of brain tissue",
+        "context": "enabling future mapping of neuronal activity and bioenergetic processes",
+        "priority": 2
+    },
+    {
+        "entity": "invention (NMR needle)",
+        "behavior": "may unveil novel neuronal activation fingerprints or effects",
+        "context": "understanding specific neuronal events in brain tissue",
+        "priority": 1
+    },
+    {
+        "entity": "Max Planck Institute for Biological Cybernetics and University of T\u00fcbingen",
+        "behavior": "collaborated on research",
+        "context": "development of the NMR-based brain probe",
+        "priority": 3
+    }
+]

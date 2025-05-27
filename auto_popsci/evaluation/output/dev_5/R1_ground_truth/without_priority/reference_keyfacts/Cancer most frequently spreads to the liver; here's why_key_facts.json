@@ -1,0 +1,62 @@
+[
+    {
+        "entity": "hepatocytes",
+        "behavior": "coordinate myeloid cell accumulation and fibrosis",
+        "context": "during early pancreatic tumorigenesis in mice"
+    },
+    {
+        "entity": "STAT3 signaling",
+        "behavior": "activated in hepatocytes",
+        "context": "in pancreatic ductal adenocarcinoma (PDAC) mouse models and patients with metastatic cancers"
+    },
+    {
+        "entity": "serum amyloid A1 and A2 (SAA)",
+        "behavior": "produced by hepatocytes",
+        "context": "in response to STAT3 activation during pancreatic and colorectal cancer metastasis"
+    },
+    {
+        "entity": "IL-6",
+        "behavior": "released by non-malignant stromal cells",
+        "context": "adjacent to tumor cells in primary pancreatic tumors"
+    },
+    {
+        "entity": "IL-6\u2013STAT3\u2013SAA signaling",
+        "behavior": "prevents pro-metastatic niche formation when blocked",
+        "context": "in mouse models of liver metastasis"
+    },
+    {
+        "entity": "KPC mice",
+        "behavior": "show increased myeloid cells and extracellular matrix deposition",
+        "context": "in the liver during PDAC progression"
+    },
+    {
+        "entity": "Il6 \u2212/\u2212 mice",
+        "behavior": "exhibit reduced STAT3 activation and fibrotic niche",
+        "context": "after orthotopic PDAC cell implantation"
+    },
+    {
+        "entity": "Stat3 flox/flox Alb-cre mice",
+        "behavior": "fail to form pro-metastatic niche",
+        "context": "due to hepatocyte-specific STAT3 deletion in PDAC models"
+    },
+    {
+        "entity": "Saa \u2212/\u2212 mice",
+        "behavior": "inhibit liver metastasis",
+        "context": "in PDAC and colorectal cancer models"
+    },
+    {
+        "entity": "circulating SAA",
+        "behavior": "correlates with poor prognosis",
+        "context": "in patients with pancreatic cancer or non-small-cell lung carcinoma"
+    },
+    {
+        "entity": "parabiotic mice",
+        "behavior": "develop liver pro-metastatic niche in both partners",
+        "context": "independent of tumor anatomical proximity"
+    },
+    {
+        "entity": "lung pro-metastatic niche",
+        "behavior": "forms independently of IL-6\u2013STAT3\u2013SAA",
+        "context": "in PDAC models"
+    }
+]
