@@ -1,0 +1,68 @@
+[
+    {
+        "entity": "hepatocytes",
+        "behavior": "activate STAT3 protein",
+        "context": "in response to inflammation leading to liver metastasis",
+        "priority": 1
+    },
+    {
+        "entity": "STAT3",
+        "behavior": "increases production of SAA proteins",
+        "context": "in hepatocytes during inflammation",
+        "priority": 1
+    },
+    {
+        "entity": "SAA proteins",
+        "behavior": "remodel the liver and create the 'soil' for cancer cells",
+        "context": "liver metastasis",
+        "priority": 1
+    },
+    {
+        "entity": "IL-6",
+        "behavior": "drives STAT3 signaling and SAA production in hepatocytes",
+        "context": "inflammatory response in the liver",
+        "priority": 1
+    },
+    {
+        "entity": "antibodies blocking IL-6",
+        "behavior": "limit cancer spread to the liver",
+        "context": "preventing liver metastasis",
+        "priority": 1
+    },
+    {
+        "entity": "STAT3",
+        "behavior": "genetically deleted in hepatocytes",
+        "context": "blocks liver susceptibility to cancer seeding in mice",
+        "priority": 1
+    },
+    {
+        "entity": "hepatocytes",
+        "behavior": "are major orchestrators of the seed-and-soil process",
+        "context": "liver metastasis",
+        "priority": 1
+    },
+    {
+        "entity": "SAA proteins",
+        "behavior": "attract inflammatory cells and initiate fibrotic reaction",
+        "context": "establishing the 'soil' for cancer",
+        "priority": 1
+    },
+    {
+        "entity": "IL-6",
+        "behavior": "drives changes in the liver regardless of tumor presence",
+        "context": "conditions like obesity or cardiovascular disease affecting cancer spread",
+        "priority": 2
+    },
+    {
+        "entity": "therapies targeting hepatocytes",
+        "behavior": "may prevent cancer from spreading to the liver",
+        "context": "cancer mortality",
+        "priority": 2
+    },
+    {
+        "entity": "mouse models of pancreatic ductal adenocarcinoma (PDAC)",
+        "behavior": "used to study liver metastasis mechanisms",
+        "context": "research methodology involving collaboration with Mayo Clinic and others",
+        "priority": 2
+    }
+]

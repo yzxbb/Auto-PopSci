@@ -1,0 +1,62 @@
+[
+    {
+        "entity": "Surgical and N95 masks",
+        "behavior": "block up to 90% of aerosolized particles",
+        "context": "during breathing, talking, coughing, and jaw movement",
+        "priority": 1
+    },
+    {
+        "entity": "Homemade cotton masks",
+        "behavior": "release large amounts of fabric fibers into the air",
+        "context": "during expiratory activities",
+        "priority": 1
+    },
+    {
+        "entity": "CDC and WHO",
+        "behavior": "endorse use of face coverings",
+        "context": "as part of COVID-19 prevention measures",
+        "priority": 2
+    },
+    {
+        "entity": "Superemitter",
+        "behavior": "produces nearly 100x more particles than average when coughing",
+        "context": "during controlled coughing tests",
+        "priority": 2
+    },
+    {
+        "entity": "Cloth masks",
+        "behavior": "require regular washing",
+        "context": "to mitigate fiber release and maintain effectiveness",
+        "priority": 1
+    },
+    {
+        "entity": "Unmasked individuals",
+        "behavior": "emit 10x more particles during talking vs. breathing",
+        "context": "during expiratory activities",
+        "priority": 1
+    },
+    {
+        "entity": "UC Davis researchers",
+        "behavior": "developed aerosol measurement system using laminar flow cabinet",
+        "context": "experimental setup for mask testing",
+        "priority": 3
+    },
+    {
+        "entity": "Face coverings",
+        "behavior": "reduce spread of larger particles",
+        "context": "even when homemade masks release fibers",
+        "priority": 2
+    },
+    {
+        "entity": "COVID-19 pandemic",
+        "behavior": "drives global mask usage requirements",
+        "context": "state and local government mandates",
+        "priority": 3
+    },
+    {
+        "entity": "Expiratory activities",
+        "behavior": "include chewing-like jaw movements in study design",
+        "context": "experimental parameters for aerosol emission",
+        "priority": 3
+    }
+]

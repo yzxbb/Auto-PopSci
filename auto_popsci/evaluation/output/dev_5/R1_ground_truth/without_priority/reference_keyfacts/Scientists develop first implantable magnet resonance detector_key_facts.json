@@ -1,0 +1,52 @@
+[
+    {
+        "entity": "NMR-on-a-chip transceiver",
+        "behavior": "combines ultra-sensitive 300 \u00b5m NMR coil with complete NMR transceiver",
+        "context": "enables in vivo measurements of blood oxygenation and flow in nanoliter volumes at 200 Hz sampling rate"
+    },
+    {
+        "entity": "Integrated circuit (IC)-based NMR systems",
+        "behavior": "simplify hardware complexity and boost sensitivity",
+        "context": "recent advancements in MR hardware for life sciences"
+    },
+    {
+        "entity": "On-chip microcoil",
+        "behavior": "reduces pickup of parasitic MR signals and electromagnetic interference",
+        "context": "enables interference-free in vivo experiments in defined brain regions"
+    },
+    {
+        "entity": "CMOS ASIC",
+        "behavior": "integrates 24-turn 300 \u00b5m TX/RX NMR coil, low-noise receiver, and H-bridge PA",
+        "context": "achieves 9.8 nl sensitive volume and 12 Hz spectral linewidth in water phantoms"
+    },
+    {
+        "entity": "NMR needle",
+        "behavior": "detects hemodynamic changes (CBF and BOLD effects)",
+        "context": "rat forepaw stimulation experiments showing 1% signal amplitude changes"
+    },
+    {
+        "entity": "Time-domain spin sensitivity",
+        "behavior": "achieves 2.0\u00d710\u00b9\u00b3 spins/\u221aHz",
+        "context": "40x improvement over conventional 8 mm surface coil"
+    },
+    {
+        "entity": "NMR needle temporal resolution",
+        "behavior": "reaches 200 Hz sampling rate",
+        "context": "tracks hemodynamic changes with 5 ms resolution in vivo"
+    },
+    {
+        "entity": "Volume-normalized tSNR",
+        "behavior": "150x higher than conventional EPI fMRI",
+        "context": "T_R = 1 s measurements in 9.8 nl sensitive volume"
+    },
+    {
+        "entity": "CMOS chip interconnects",
+        "behavior": "use micrometer-scale wires with differential design",
+        "context": "prevents Hall/magnetoresistive effects in 14.1 T magnetic field"
+    },
+    {
+        "entity": "NMR needle applications",
+        "behavior": "enables layer-specific hemodynamic response analysis",
+        "context": "potential for multi-modal integration with electrophysiological electrodes"
+    }
+]

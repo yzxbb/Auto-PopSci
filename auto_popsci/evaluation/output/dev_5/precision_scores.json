@@ -1,0 +1,72 @@
+[
+    {
+        "recalls": {
+            "priority_1": 0.2,
+            "priority_2": 0.0,
+            "priority_3": 0.5,
+            "overall": 0.07692307692307693
+        },
+        "precisions": {
+            "priority_1": 0.3333333333333333,
+            "priority_2": 0.0,
+            "priority_3": 1.0,
+            "overall": 0.14285714285714285
+        }
+    },
+    {
+        "recalls": {
+            "priority_1": 0.25,
+            "priority_2": 0.0,
+            "priority_3": 0.0,
+            "overall": 0.06666666666666667
+        },
+        "precisions": {
+            "priority_1": 0.3333333333333333,
+            "priority_2": 0.0,
+            "priority_3": 0.0,
+            "overall": 0.08333333333333333
+        }
+    },
+    {
+        "recalls": {
+            "priority_1": 0.2,
+            "priority_2": 0.2,
+            "priority_3": 0.0,
+            "overall": 0.16666666666666666
+        },
+        "precisions": {
+            "priority_1": 0.25,
+            "priority_2": 0.3333333333333333,
+            "priority_3": 0.0,
+            "overall": 0.2
+        }
+    },
+    {
+        "recalls": {
+            "priority_1": 0.6,
+            "priority_2": 0.0,
+            "priority_3": 0.0,
+            "overall": 0.5833333333333334
+        },
+        "precisions": {
+            "priority_1": 0.75,
+            "priority_2": 0.0,
+            "priority_3": -1,
+            "overall": 0.6363636363636364
+        }
+    },
+    {
+        "recalls": {
+            "priority_1": 0.5,
+            "priority_2": 0.0,
+            "priority_3": 0.0,
+            "overall": 0.25
+        },
+        "precisions": {
+            "priority_1": 0.6666666666666666,
+            "priority_2": 0.0,
+            "priority_3": 0.0,
+            "overall": 0.375
+        }
+    }
+]

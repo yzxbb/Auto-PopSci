@@ -1,0 +1,50 @@
+[
+    {
+        "entity": "Xenon nanoislands",
+        "behavior": "Slide with virtually no friction at low temperatures",
+        "context": "Deposited on a copper surface (Cu 111) with available space",
+        "priority": 1
+    },
+    {
+        "entity": "Xenon nanoislands",
+        "behavior": "Experience decreased friction as size increases until surface is fully covered",
+        "context": "When additional atoms are added without compression",
+        "priority": 1
+    },
+    {
+        "entity": "Xenon nanoislands",
+        "behavior": "Exhibit sudden increase in friction due to compression",
+        "context": "When surface space is exhausted and islands become commensurate with the copper substrate",
+        "priority": 1
+    },
+    {
+        "entity": "Interface commensurability",
+        "behavior": "Determines whether islands slide freely or get stuck",
+        "context": "Analogous to Lego bricks with matching or mismatching studs",
+        "priority": 2
+    },
+    {
+        "entity": "Copper substrate (Cu 111)",
+        "behavior": "Acts as a sliding surface for xenon islands",
+        "context": "Used in experimental setup at low temperatures",
+        "priority": 2
+    },
+    {
+        "entity": "Study collaboration",
+        "behavior": "Combined experimental and theoretical approaches",
+        "context": "Involved SISSA, IOM-CNR, ICTP, University of Padua, University of Modena e Reggio Emilia, and Nano-CNR",
+        "priority": 3
+    },
+    {
+        "entity": "Nanobearings",
+        "behavior": "Potential application for reversibly blocking motion",
+        "context": "Proposed based on the study's findings",
+        "priority": 2
+    },
+    {
+        "entity": "Theoretical modeling",
+        "behavior": "Explained compression-induced friction via simulations",
+        "context": "Conducted by SISSA/IOM-CNR-Democritos/ICTP",
+        "priority": 3
+    }
+]
